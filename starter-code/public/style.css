@@ -1,0 +1,16 @@
+h1 {
+    color: green;
+  }
+
+body{
+    background-color: beige;
+}
+
+.menu{
+    text-align: center;   
+}
+.index{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
